@@ -1,0 +1,70 @@
+.topcontainer {
+    background-color: #ADD8E6;
+    border: 10px solid;
+    display: inline-block;
+    height: 300px;
+    padding: 20px;
+    width: 200px;
+}
+
+.middlecontainer {
+    background-color: rgb(78, 78, 149);
+    border: 20px solid;
+    height: 200px;
+    margin-left: 260px;
+    padding: 10px;
+    width: 200px;
+    position: relative;
+    bottom: 333px;
+
+}
+
+.bottomcontainer {
+
+    border: 20px solid;
+    height: 220px;
+    margin-left: 500px;
+    width: 220px;
+    position: relative;
+    bottom: 593px;
+    right: 501px;
+
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.mountain {
+
+    position: relative;
+    left: 230px;
+    bottom: 330px;
+}
+
+.darth {
+    background-color: yellow;
+    position: relative;
+    left: 48px;
+    top: 45px;
+}
+
+.musicdiv {
+    background-color: #067093;
+    border: solid;
+    border-width: 2px;
+    border-color: #000000;
+    margin: 20px 3px 15px 2px;
+    padding: 0px 17px 5px 17px;
+    border-radius: 30px;
+    font-family: Verdana, Geneva, sans-serif;
+    position: relative;
+    bottom: 612px;
+    width: 478px;
+}
+
+.peppers {
+    background-color: #067093;
+    position: relative;
+    left: 55px;
+}
